@@ -70,6 +70,10 @@ Docs
 Please visit the jasmine documentation to find out more about writing tests.
 http://jasmine.github.io/2.0/introduction.html
 
+To-Do
+=====
+Support server-side code.
+Strange behavior arises when used with iron-router - fix.
 
 
 
