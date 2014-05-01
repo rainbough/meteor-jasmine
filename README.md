@@ -34,7 +34,7 @@ Add the specRunner template into one of your templates like this:
 
 Put your spec files in a "spec" folder that is only accessible to the client.
 
-Currently only client-side testing is supported. The spec folder must be only available to the client - i.e. put in the client folder. Jasmine can only find code to test that is available to the client. Thus code that is availabe to client only or both client and server can be tested, but server-only code cannot be tested. 
+Currently only client-side testing is supported. The spec folder must be only available to the client - i.e. put in the client folder. Jasmine can only find code to test that is available to the client. Thus, code that is available to client only or both client and server can be tested, but server-only code cannot be tested. 
 
 Example
 =======
