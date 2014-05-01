@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function(api) {
 	api.use(["underscore", "templating"], "client");
-	api.add_files(["jasmine.js", "jasmine-html.js", "boot.js", "console.js", "templates.html", "jasmine.css", "jasmine_favicon.png", "SpecRunner.html"], "client");
+	api.add_files(["jasmine.js", "jasmine-html.js", "boot.js", "console.js", "jasmine.css", "jasmine_favicon.png", "SpecRunner.html"], "client");
 });
 
