@@ -38,13 +38,13 @@ Currently only client-side testing is supported. The spec folder must be only av
 
 Example
 =======
-After installing copy the contents of the example folder (jasmine/example) into your client directory. Make sure you have put the {{> specRunner }} template somewhere you can see. 
+After installing the jasmine package, copy the contents of the example folder (jasmine/example) into your client directory. Make sure you have put the {{> specRunner }} template somewhere you can see. 
 
 Note
 ====
 Because of the different style of javascript that meteor uses, some minor changes had to be made to the original examples available in the jasmine source code.
 
-Specifically in players.js and songs.js line 1:
+Specifically in the players.js and songs.js files, line 1:
 
 ```
 function Player() {
