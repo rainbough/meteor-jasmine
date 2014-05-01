@@ -1,4 +1,4 @@
-.html-reporter{ background-color: #eeeeee; padding: 0; overflow-y: scroll; }
+.html-reporter{ background-color: #eeeeee; padding: 0; overflow-y: scroll; padding-bottom: 10px;}
 
 .html-reporter { font-size: 11px; font-family: Monaco, "Lucida Console", monospace; line-height: 14px; color: #333333; }
 .html-reporter a { text-decoration: none; }
